@@ -1,0 +1,13 @@
+include pyproject.toml
+include versioneer.py
+include pandas-context/_version.py
+include src/pandas_context/_version.py
+
+# Include the README
+# include *.md
+
+# Include the license file
+# include LICENSE.txt
+
+# Include the data files
+# recursive-include data *
