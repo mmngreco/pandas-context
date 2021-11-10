@@ -1,6 +1,6 @@
 # pandas-context
 
-Provides context to your data, allow you to made complex slicing around a
+Provides context to your data, allowing you to make complex slicing around a
 specific index.
 
 Here's an example:
