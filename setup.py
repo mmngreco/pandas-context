@@ -10,10 +10,10 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 setup(
     name='pandas-context',
     version=versioneer.get_version(),
-    description='A sample Python project',
+    description='It includes a context method to your pandas objects.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/mmngreco/my_lib',
+    url='https://github.com/mmngreco/pandas-context',
     author='mmngreco',
     classifiers=[
         'Development Status :: 3 - Alpha',
